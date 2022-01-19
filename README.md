@@ -27,9 +27,16 @@
 </p>
 
 <br />
+
+## 💫 Realtime Data
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=mtajammulzia.mtajammulzia)
+[![Github](https://img.shields.io/github/followers/mtajammulzia?label=Follow&style=social)](https://github.com/mtajammulzia)
+
+<br />
   
 ## :trophy: My Github Stats:
-<div>
+<div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=mtajammulzia&theme=tokyonight">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mtajammulzia&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
@@ -37,7 +44,9 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtajammulzia&hide=php&theme=tokyonight" />
   </a>
 </div>
-  
+
+
+
 <!--
 **mtajammulzia/mtajammulzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
